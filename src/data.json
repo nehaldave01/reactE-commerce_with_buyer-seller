@@ -1,0 +1,402 @@
+[
+    {
+        "id" : 1,
+        "title" : "Men Denim Jeans",
+        "price" : 12.5,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "men's clothing",
+        "image" : "https://5.imimg.com/data5/SELLER/Default/2021/7/ZW/DY/RA/133215290/mens-wear.jpg",
+        "rating" : 3.9
+    },
+
+    {
+        "id" : 2,
+        "title" : "Men Hoodi",
+        "price" : 9.5,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "men's clothing",
+        "image" : "https://www.nextdirect.com/nxtcms/resource/blob/5821504/ee0fc6a294be647924fa5f5e7e3df8e9/hoodies-data.jpg",
+        "rating" : 2.5
+    },
+
+    {
+        "id" : 3,
+        "title" : "Kurta Set",
+        "price" : 22,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "men's clothing",
+        "image" : "https://www.yellwithus.com/cdn/shop/products/YLWC_1700BROWN_1_d9278126-e799-4901-9f1c-913f8f326bc8_600x.jpg?v=1622462554",
+        "rating" : 4 
+    },
+
+    {
+        "id" : 4,
+        "title" : "Men's Co-ord Set",
+        "price" : 13.5,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "men's clothing",
+        "image" : "https://5.imimg.com/data5/ECOM/Default/2024/2/389630853/IC/BB/PT/27596894/luxeliv-mens-loungewear-white-shorts-shirt-loungewear-blanc-co-ordset-1-1000x1000.jpg",
+        "rating" : 5
+    },
+
+    {
+        "id" : 5,
+        "title" : "Leopard Print Co-Ords",
+        "price" : 15.3,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "men's clothing",
+        "image" : "https://www.badmaash.com/cdn/shop/products/11318_LEOPARD_PRINT_OG_CO-ORDS_1_2048x2048.jpg?v=1681194138",
+        "rating" : 4.5 
+    },
+
+    {
+        "id" : 6,
+        "title" : "Regular Formal",
+        "price" : 11.2,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "men's clothing",
+        "image" : "https://thefoomer.in/cdn/shop/products/jpeg-optimizer_PATP5270.jpg?v=1680164001",
+        "rating" : 5
+    },
+
+    {
+        "id" : 7,
+        "title" : "Formal Shirt",
+        "price" : 14,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "men's clothing",
+        "image" : "https://rajubhaihargovindas.com/12407-large_default/japs-yellow-pure-cotton-formal-shirt.jpg",
+        "rating" : 4
+    },
+
+    {
+        "id" : 8,
+        "title" : "Men Oversize Tshirts",
+        "price" : 9.5,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "men's clothing",
+        "image" : "https://5.imimg.com/data5/SELLER/Default/2023/1/EN/JH/VA/47456940/men-oversized-tshirts.jpg",
+        "rating" : 5 
+    },
+
+    {
+        "id" : 9,
+        "title" : "OverSize Tshirts",
+        "price" : 4.5,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "men's clothing",
+        "image" : "https://images.meesho.com/images/products/319819104/emgui_512.webp",
+        "rating" : 4.2
+    },
+
+    {
+        "id" : 10,
+        "title" : "Linen Shorts",
+        "price" : 8.3,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "men's clothing",
+        "image" : "https://dynamic.zacdn.com/5u5Zs7chmPOXmL5s-Zsfqr7Cv7Q=/filters:quality(70):format(webp)/https://static-hk.zacdn.com/p/lc-waikiki-8125-9463036-1.jpg",
+        "rating" : 4.1
+    },
+
+    {
+        "id" : 11,
+        "title" : "Western Dress",
+        "price" : 8.8,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "women's clothing",
+        "image" : "https://snazzyhunt.com/cdn/shop/files/ZL-WD-NP-D-S29-GR-A.webp?v=1708797555",
+        "rating" : 3.1
+    },
+
+    {
+        "id" : 12,
+        "title" : "Ethnic Suit",
+        "price" : 12.5,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "women's clothing",
+        "image" : "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/7/0/70e0b8eJanasya-SET398-KR-PP_2.jpg?tr=w-512",
+        "rating" : 4.4
+    },
+
+    {
+        "id" : 13,
+        "title" : "Western Wear",
+        "price" : 5.4,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "women's clothing",
+        "image" : "https://img.joomcdn.net/2e31c45800c1ef4e1a6ad7274965873e2d0b898e_original.jpeg",
+        "rating" : 3.1
+    },
+
+    {
+        "id" : 14,
+        "title" : "Office wear",
+        "price" : 12.3,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "women's clothing",
+        "image" : "https://dlanxa.com/cdn/shop/products/3H8A7943.jpg?v=1679398462",
+        "rating" : 2.4
+    },
+
+    {
+        "id" : 15,
+        "title" : "Woman Shrit",
+        "price" : 9.4,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "women's clothing",
+        "image" : "https://i.cubmcpaws.com/fit-in/dropbox_4211210928040905.jpg",
+        "rating" : 5
+    },
+
+    {
+        "id" : 16,
+        "title" : "Anarkali Suits",
+        "price" : 10.2,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "women's clothing",
+        "image" : "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/3/0/30e9df0ROYANAR_1.jpg?tr=w-512",
+        "rating" : 4.6
+    },
+
+    {
+        "id" : 17,
+        "title" : "Mini Overshize tshirts",
+        "price" : 7.12,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "women's clothing",
+        "image" : "https://5.imimg.com/data5/SELLER/Default/2023/4/301339062/AP/TY/WN/7175905/oversized-crop-t-shirt-girls.jpg",
+        "rating" : 4.6
+    },
+
+    {
+        "id" : 18,
+        "title" : "Midi Skirt",
+        "price" : 12.5,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "women's clothing",
+        "image" : "https://m.media-amazon.com/images/I/81gxZWbM1kL._AC_UY1000_.jpg",
+        "rating" : 5
+    },
+
+    {
+        "id" : 19,
+        "title" : "Denim Dress",
+        "price" : 7.85,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "women's clothing",
+        "image" : "https://ae01.alicdn.com/kf/H76bda93fdd0f472b9b761a8c5394e0ce0/New-Jeans-Dresses-Women-2020-Summer-Short-Sleeve-A-Line-Midi-Female-Vintage-Denim-Dress-Plus.jpg_Q90.jpg_.webp",
+        "rating" : 3.5 
+    },
+
+    {
+        "id" : 20,
+        "title" : "Woman Jumpsuit",
+        "price" : 13.2,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "women's clothing",
+        "image" : "https://www.libas.in/cdn/shop/files/35098.jpg?v=1713522861",
+        "rating" : 5
+    },
+
+    {
+        "id" : 21,
+        "title" : "Oxidised Silver Jewellery",
+        "price" : 4.5,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "jewelery",
+        "image" : "https://cdn.staticans.com/image/tr:e-sharpen-01,h-1440,w-1080,cm-pad_resize/data/ToniQ/5-July-2022/OAW22FIJJS167A_1.jpg",
+        "rating" : 1.2
+    },
+
+    {
+        "id" : 22,
+        "title" : "Multi Layer Jewellery",
+        "price" : 3.5,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "jewelery",
+        "image" : "https://images-static.nykaa.com/media/catalog/product/3/a/3aa41bbct-nck-44089_1.jpg?tr=w-500",
+        "rating" :2.2 
+    },
+
+    {
+        "id" : 23,
+        "title" : "Pearl Necklace",
+        "price" : 3.1,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "jewelery",
+        "image" : "https://m.media-amazon.com/images/I/61Yf6Gbl-fL._AC_UY1100_.jpg",
+        "rating" : 2.6
+    },
+
+    {
+        "id" : 24,
+        "title" : "Jewelery Set",
+        "price" : 6.5,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "jewelery",
+        "image" : "https://images.meesho.com/images/products/314436847/4gni6_512.jpg",
+        "rating" : 4.5
+    },
+
+    {
+        "id" : 25,
+        "title" : "Men's Ring",
+        "price" : 15.3,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "jewelery",
+        "image" : "https://www.candere.com/media/jewellery/images/C020983_1.jpeg",
+        "rating" : 3.5
+    },
+
+    {
+        "id" : 26,
+        "title" : "Bracelat",
+        "price" : 12.6,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "jewelery",
+        "image" : "https://m.media-amazon.com/images/I/71PcdbfY2oL._AC_UY1100_.jpg",
+        "rating" : 3.6
+    },
+
+    {
+        "id" : 27,
+        "title" : "Ceremony Ring",
+        "price" : 11.2,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "jewelery",
+        "image" : "https://kinclimg9.bluestone.com/f_jpg,c_scale,w_828,q_80,b_rgb:f0f0f0/giproduct/BIAR0097R13_YAA18DIG6XXXXXXXX_ABCD00-PICS-00001-1024-64527.png",
+        "rating" : 4.3
+    },
+
+    {
+        "id" : 28,
+        "title" : "Men's Ring",
+        "price" : 16.25,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "jewelery",
+        "image" : "https://kinclimg7.bluestone.com/f_jpg,c_scale,w_828,q_80,b_rgb:f0f0f0/giproduct/BISS0103R657_YAA18DIG6XXXXXXXX_ABCD00-PICS-00001-1024-26810.png",
+        "rating" : 4.3
+    },
+
+    {
+        "id" : 29,
+        "title" : "Men's Bracelet",
+        "price" : 7.9,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "jewelery",
+        "image" : "https://brantashop.com/cdn/shop/products/K2381_1.jpg?v=1655905398&width=900",
+        "rating" : 4.1
+    },
+
+    {
+        "id" : 30,
+        "title" : "Women Earring",
+        "price" : 12.35,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "jewelery",
+        "image" : "https://img0.junaroad.com/uiproducts/18372341/zoom_0-1653023799.jpg",
+        "rating" : 4.3
+    },
+
+    {
+        "id" : 31,
+        "title" : "Phone Stand with Bluethooth speaker",
+        "price" : 5.61,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "electronics",
+        "image" : "https://m.media-amazon.com/images/I/61rHxt3Md8L.jpg",
+        "rating" : 3.2
+    },
+
+    {
+        "id" : 32,
+        "title" : "Thunder Bluetooth Speaker",
+        "price" : 11.2,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "electronics",
+        "image" : "https://shop.zebronics.com/cdn/shop/files/Zeb-Thunder-pic5.jpg?v=1702966217&width=1200",
+        "rating" : 3.6
+    },
+
+    {
+        "id" : 33,
+        "title" : "Prestige Kettle",
+        "price" : 15.3,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "electronics",
+        "image" : "https://www.giftsmyntra.com/wp-content/uploads/2021/04/Prestige-Electric-Kettle-PKOSS.jpg",
+        "rating" : 3.6
+    },
+
+    {
+        "id" : 34,
+        "title" : "Bluetooth Speaker",
+        "price" : 7.5,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "electronics",
+        "image" : "https://cdn.cs.1worldsync.com/syndication/mediaserverredirect/4e202f8e2dbd11ae258ab9b9e52c2165/width(1200).jpg",
+        "rating" : 4.2
+    },
+
+    {
+        "id" : 35,
+        "title" : "Hair Dryer",
+        "price" : 9.6,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "electronics",
+        "image" : "https://mymec.in/wp-content/uploads/2022/09/New-Project-68.jpg",
+        "rating" : 4.5
+    },
+
+    {
+        "id" : 36,
+        "title" : "Smart Watch",
+        "price" : 12.6,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "electronics",
+        "image" : "https://easycart.in/wp-content/uploads/2023/05/1-8.jpg",
+        "rating" : 2.5
+    },
+
+    {
+        "id" : 37,
+        "title" : "Hair Straightener",
+        "price" : 8.8,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "electronics",
+        "image" : "https://m.media-amazon.com/images/I/51KpNo662AL._AC_UF1000,1000_QL80_.jpg",
+        "rating" : 3.6
+    },
+
+    {
+        "id" : 38,
+        "title" : "Carava",
+        "price" : 15.3,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "electronics",
+        "image" : "https://cdn.giftstoindia24x7.com/ASP_Img/IMG2000/GTI437182.jpg?imgeng=w_750",
+        "rating" :4.6 
+    },
+
+    {
+        "id" : 39,
+        "title" : "Men's Razor",
+        "price" : 13.52,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "electronics",
+        "image" : "https://m.media-amazon.com/images/I/71qJ-BPcl3L.jpg",
+        "rating" : 5
+    },
+
+    {
+        "id" : 40,
+        "title" : "Camera Pro Stand",
+        "price" : 13.64,
+        "description" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.",
+        "category" : "electronics",
+        "image" : "https://techthelead.com/wp-content/uploads/2021/11/dji-pocket-2-724x1024.jpg",
+        "rating" : 4.3
+    }
+    
+]

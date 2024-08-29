@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.bg-image {
+    background-image: url('./Image/bg-cover1.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    
+  }
+
+  
